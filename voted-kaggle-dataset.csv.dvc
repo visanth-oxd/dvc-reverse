@@ -1,0 +1,13 @@
+md5: fa08e1808c0c6717044a78d0ad1430e3
+frozen: true
+deps:
+- etag: 0891afbbeaac8d86031001
+  size: 3881130
+  version_id: '1715696850360209'
+  hash: md5
+  path: gs://eu-desc/voted-kaggle-dataset.csv
+outs:
+- md5: e5dc2993e42ec8d9be5c27382b6e2372
+  size: 3881130
+  hash: md5
+  path: voted-kaggle-dataset.csv

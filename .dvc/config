@@ -1,0 +1,4 @@
+[core]
+    remote = my_gcs_remote
+['remote "my_gcs_remote"']
+    url = gs://eu-desc
